@@ -1,2 +1,2 @@
-# PTLab1-2022-main
-Lab1_tech_prog
+# PTLab1-ii-2022
+Lab1
